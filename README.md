@@ -7,7 +7,7 @@ https://docs.google.com/document/d/1t382g5OzXLUNuUKXkqBH96oRROo97or9S--7e7AUBos/
 
 ```python
 lidar_distance = [ 0.9 3.8 15.7 ... 8.5 ]  #라이다 센서 데이터값을 받아 리스트로 정리해두었다. 
-safe_distances = [dist for dist in sensor_distances if dist > 5.0]  #(딕셔너리 + for문)으로, 특정 거리 이하이면 장애물과 가까운 것으로 판단하는 코드들이 중요하다
+safe_distances = [dist for dist in lidar_distances if dist > 5.0]  #(딕셔너리 + for문)으로, 특정 거리 이하이면 장애물과 가까운 것으로 판단하는 코드들이 중요하다
 ```
 
 
