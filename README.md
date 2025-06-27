@@ -2,6 +2,9 @@
 ## 자동차 코드 사용시 고려되야 할 기준들
 https://docs.google.com/document/d/1r5Uor8GDQ9IjDMNfYauvbfUjBhyt0xBH3RkPyPy_ty4/edit?usp=sharing
 
+## 자율주행에서 쓰이는 리스트, 딕셔너리 명령문들
+https://docs.google.com/document/d/1t382g5OzXLUNuUKXkqBH96oRROo97or9S--7e7AUBos/edit?tab=t.0
+
 ## 3.  data structure / data sciencs
 
 - [데이터 구조 개요](data_structures.md)
