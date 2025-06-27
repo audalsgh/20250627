@@ -10,6 +10,8 @@ lidar_distance = [ 0.9 3.8 15.7 ... 8.5 ]  #라이다 센서 데이터값을 받
 safe_distances = [dist for dist in lidar_distances if dist > 5.0]  #(딕셔너리 + for문)으로, 특정 거리 이하이면 장애물과 가까운 것으로 판단하는 코드들이 중요하다
 ```
 
+## 자율주행에서 쓰이는 "튜플" 예제들
+https://docs.google.com/document/d/1MSmcpGo_pFJ1uCgVH93B4UuOHtGw23Z4YGOGA_APMLI/edit?usp=sharing
 
 ## 3.  data structure / data sciencs
 
