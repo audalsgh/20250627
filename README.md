@@ -17,6 +17,10 @@ https://docs.google.com/document/d/1MSmcpGo_pFJ1uCgVH93B4UuOHtGw23Z4YGOGA_APMLI/
 
 ![image](https://github.com/user-attachments/assets/d39c7ade-f921-472d-9575-867a755c4113)
 
+**튜플 언패킹, 변수를 여러번 정의할 필요없이 튜플값 순서대로 할당됨!**
+
+![image](https://github.com/user-attachments/assets/542cc0ec-9a1e-4a68-9a4a-9542609b31f9)
+
 ## 3.  data structure / data sciencs
 
 - [데이터 구조 개요](data_structures.md)
