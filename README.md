@@ -13,6 +13,10 @@ safe_distances = [dist for dist in lidar_distances if dist > 5.0]  #(딕셔너�
 ## 자율주행에서 쓰이는 "튜플" 예제들
 https://docs.google.com/document/d/1MSmcpGo_pFJ1uCgVH93B4UuOHtGw23Z4YGOGA_APMLI/edit?usp=sharing
 
+튜플을 쓰는이유
+
+![image](https://github.com/user-attachments/assets/d39c7ade-f921-472d-9575-867a755c4113)
+
 ## 3.  data structure / data sciencs
 
 - [데이터 구조 개요](data_structures.md)
